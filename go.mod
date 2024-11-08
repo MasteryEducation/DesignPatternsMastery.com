@@ -46,7 +46,7 @@ require (
 	github.com/hbstack/header v0.16.4 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.26 // indirect
 	github.com/hbstack/header/modules/search v0.1.38 // indirect
-	github.com/hbstack/header/modules/socials v0.2.1 // indirect
+	github.com/hbstack/header/modules/socials v0.2.2 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.5.2 // indirect
 	github.com/hbstack/heading-sign v0.2.0 // indirect
 	github.com/hbstack/mermaid v0.2.2 // indirect
@@ -55,7 +55,7 @@ require (
 	github.com/hbstack/pagination v0.8.0 // indirect
 	github.com/hbstack/progress-bar v0.1.1 // indirect
 	github.com/hbstack/pwa v0.1.2 // indirect
-	github.com/hbstack/revision v0.6.6 // indirect
+	github.com/hbstack/revision v0.6.7 // indirect
 	github.com/hbstack/scrollbar v0.1.0 // indirect
 	github.com/hbstack/search v0.2.2 // indirect
 	github.com/hbstack/slide v0.4.0 // indirect

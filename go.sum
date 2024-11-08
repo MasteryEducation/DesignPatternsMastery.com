@@ -209,6 +209,8 @@ github.com/hbstack/header/modules/socials v0.2.0 h1:ztbnGhgFrgViU8+TlvFpOajVWcQz
 github.com/hbstack/header/modules/socials v0.2.0/go.mod h1:OoJfwBEicrezWzSF+F/mKuqCoo9FfP1nb8Oo4vmGWG8=
 github.com/hbstack/header/modules/socials v0.2.1 h1:Zvq/DuKHq71frqojlERYP88ScuVRh8IvGj9DHxYK2Q4=
 github.com/hbstack/header/modules/socials v0.2.1/go.mod h1:ntNP1E47dOuqKNPsw5XGsg0Wr9nAJhiGU8ZtZ33Ur8s=
+github.com/hbstack/header/modules/socials v0.2.2 h1:HZzeJg3Ncf0vv2QipccYYhSADVTG4Aqt1rYLml23u40=
+github.com/hbstack/header/modules/socials v0.2.2/go.mod h1:oy5kARWoEresORePUcmtFax0wTgCA4U7jsxExltgHC0=
 github.com/hbstack/header/modules/theme-toggle v0.4.4 h1:2abRpCpNxlL5k8KqnFMDvyUwaVo9s+uyRirxXf6mOD8=
 github.com/hbstack/header/modules/theme-toggle v0.4.4/go.mod h1:s0wry+fpt4OJO49dwHSaDW2aux7SZ+zvX5t6wlWSw5k=
 github.com/hbstack/header/modules/theme-toggle v0.5.1 h1:CXognO+rbqUVXCJ/Udc3frntSu15mY1ZH15I/H20aF4=
@@ -243,6 +245,8 @@ github.com/hbstack/revision v0.6.4 h1:8rGYk1anWUUj4OAAlNRx3GVZ9EtXkAIvo/N6GjH2F9
 github.com/hbstack/revision v0.6.4/go.mod h1:f92y0zEKu/M1yhxXEmJCnfIm9EBnysQFGU89djsgDs8=
 github.com/hbstack/revision v0.6.6 h1:TbmZ0Z8wNJ1bng/uzOxY7/LBhl01gUADPfy/1VBw+/k=
 github.com/hbstack/revision v0.6.6/go.mod h1:P4Z51jp/LzYFglkT0oYtzXUgSZifw/vuXHtZNet+6UA=
+github.com/hbstack/revision v0.6.7 h1:L5+CcJV0wf2GhaqTnCx1X6Tk8v7WtsqGYgwvdaXYbXM=
+github.com/hbstack/revision v0.6.7/go.mod h1:hG6AkgIoiARIJBG3PV0M7qh9a72YJPNVWQC0mWJmle4=
 github.com/hbstack/scrollbar v0.1.0 h1:uQMNbkWbLxnjQMiD3zdt33RG48sY2a0XWyGQkK2HsyY=
 github.com/hbstack/scrollbar v0.1.0/go.mod h1:BEDha5gOjQfXBKZfwT+4vn8hCE88qElocjEI2SY1eAs=
 github.com/hbstack/search v0.2.1 h1:u7DbLPZ0WO1db2ARb2reubn5KzPE3wG6NLrgylB6WQg=
