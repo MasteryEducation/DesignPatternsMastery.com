@@ -46,7 +46,7 @@ hb:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       github: MasteryEducation
-      witter: TokenizerCA
+      twitter: TokenizerCA
       rss: true
   terms:
     paginate: 100
