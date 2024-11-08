@@ -36,7 +36,7 @@ hb:
   full_width: true
 
   header:
-    brand: DesignPatternsMastery.com
+    brand: Design Patterns Mastery
     socials:
       github: MasteryEducation
       twitter: TokenizerCA
@@ -53,7 +53,7 @@ hb:
   blog:
     sidebar:
       profile:
-        title: DesignPatternsMastery.com
+        title: Design Patterns Mastery
       posts:
         recent_count: 0
         featured_count: 0
@@ -129,7 +129,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'DesignPatternsMastery.com'
+    short_name: 'Design Patterns Mastery'
 
 # https://hugomods.com/search/configurations/
 search:

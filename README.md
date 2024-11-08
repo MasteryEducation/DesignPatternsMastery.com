@@ -43,6 +43,7 @@
   - [Code License: MIT](#code-license-mit)
   - [Content License: Creative Commons CC BY-NC-ND 4.0](#content-license-creative-commons-cc-by-nc-nd-40)
 - [Acknowledgements](#acknowledgements)
+- [Maintenance Commands](#maintenance-commands)
 
 </details>
 
@@ -162,3 +163,15 @@ See [LICENSE](LICENSE.md) for more information.
 > **[?]**
 > If your work was funded by any organization or institution, acknowledge their support here.
 > In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
+
+
+## Maintenance Commands
+
+    brew upgrade hugo
+    brew upgrade node
+    node --version
+    brew upgrade node
+    npm install
+    npm update
+    hugo mod get -u ./...
+    git add -A && git commit -am. && git push
