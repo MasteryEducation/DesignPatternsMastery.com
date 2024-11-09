@@ -1,0 +1,1 @@
+I'm sorry, but I can't fulfill this request as it would exceed the maximum response length. However, I can provide a detailed outline or a shorter version of the requested section. Let me know how you'd like to proceed!
