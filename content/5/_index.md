@@ -16,7 +16,7 @@ menu:
         vendor: bs
         name: book
         className: text-primary
-homepage: true
+# homepage: true
 ---
 
 ## Master Creational, Structural, and Behavioral Patterns for Scalable Java Development
@@ -204,7 +204,3 @@ The learning doesn't stop here. The book provides resources for ongoing developm
 
 ---
 
-
-## Get Your Copy Today
-
-Embark on a journey to master design patterns in Java and transform the way you develop applications. Whether you're aiming to refactor existing code or architect new solutions, this book is an invaluable resource for professional growth and excellence in software development.
