@@ -101,11 +101,12 @@ hb:
   docs:
     #https://hugomods.com/docs/comment-engines/giscus/
     #https://github.com/apps/giscus
+    #https://giscus.app/#repository
     giscus:
       repo: MasteryEducation/DesignPatternsMastery.com
-      repo_id: R_kgDOM1jR8w
+      repo_id: R_kgDONJcv8A
       category: Announcements
-      category_id: DIC_kwDOM1jR884CisiJ
+      category_id: DIC_kwDONJcv8M4CkF5W
       mapping: title
       strict_matching: true
       input_position: top
