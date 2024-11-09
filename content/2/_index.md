@@ -16,7 +16,7 @@ menu:
         vendor: bs
         name: book
         className: text-primary
-homepage: true
+# homepage: true
 ---
 
 
@@ -81,7 +81,7 @@ Discover how relatable analogies, practical examples, and expert insights can tr
 
 ---
 
-**Get your copy of "Design Patterns in Plain English: Demystifying Software Architecture" today and start your journey towards software design mastery!**
+**Start your journey towards software design mastery!**
 
 ---
 
