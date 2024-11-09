@@ -5,11 +5,11 @@ linkTitle: Modern Design Patterns in JavaScript and TypeScript
 description: |
   Discover "Modern Design Patterns in JavaScript and TypeScript"—your comprehensive guide to mastering design patterns, enhancing code quality, and staying ahead in software development. Elevate your coding skills with practical examples, advanced techniques, and insights into modern programming practices.
 type: docs
-nav_weight: 5
+nav_weight: 11
 menu:
   main:
     parent: Languages
-    weight: 5
+    weight: 11
     params:
       description: Elevate Your Coding Skills
       icon:
