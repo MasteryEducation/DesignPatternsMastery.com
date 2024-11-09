@@ -16,7 +16,7 @@ menu:
         vendor: bs
         name: book
         className: text-primary
-# homepage: true
+homepage: true
 ---
 
 
