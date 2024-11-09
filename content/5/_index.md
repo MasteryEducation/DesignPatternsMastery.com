@@ -8,7 +8,7 @@ type: docs
 nav_weight: 5
 menu:
   main:
-    parent: intermediate
+    parent: Languages
     weight: 5
     params:
       description: Elevate Your Coding Skills

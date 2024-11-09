@@ -8,7 +8,7 @@ type: docs
 nav_weight: 1
 menu:
   main:
-    parent: beginner
+    parent: Basics
     weight: 1
     params:
       description: The Ultimate Roadmap to App Development
