@@ -1,8 +1,17 @@
+> Through endless ages, I’ve journeyed afar,  
+> Upon giants’ shoulders, I reach for the stars.  
+> My sight extends beyond where eyes can see,  
+> Enriched by wisdom freely given to me.
+>
+> \- *Fuad Efendi, Founder.*
+
+
 <h1 align="center">
   <a href="https://github.com/MasteryEducation/DesignPatternsMastery.com">
     <img src="assets/images/logo.png" alt="Logo" width="100" height="100">
   </a>
 </h1>
+
 
 <div align="center">
   <a href="https://DesignPatternsMastery.com"><strong>DesignPatternsMastery.com</strong></a>
