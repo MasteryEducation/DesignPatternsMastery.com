@@ -1,7 +1,7 @@
 ---
 title: |
   Event-Driven Architecture Patterns: Designing Reactive Systems
-linkTitle: Event-Driven Architecture Pattern
+linkTitle: Event-Driven Architecture Patterns
 description: |
   Dive into the world of Event-Driven Architecture with the definitive guide, "Event-Driven Architecture Patterns: Designing Reactive Systems." Discover essential patterns, best practices, and real-world case studies to architect scalable, resilient, and secure reactive systems. Perfect for architects, developers, and IT professionals seeking to master EDA and drive innovation in their organizations.
 type: docs
