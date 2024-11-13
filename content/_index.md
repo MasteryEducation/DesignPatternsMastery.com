@@ -5,6 +5,7 @@ description: |
   **DesignPatternsMastery.com** – Your ultimate resource for mastering software design patterns. Explore our extensive collection of books covering foundational concepts, modern programming languages like Python and JavaScript, advanced architectural patterns, domain-specific applications, and cutting-edge technologies such as AI and Quantum Computing. Elevate your software development skills with expert insights, practical examples, and hands-on projects. Start your journey towards software excellence at DesignPatternsMastery.com.
 homepage: true
 type: docs
+docs_root_section: false
 ---
 
 

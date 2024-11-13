@@ -17,6 +17,7 @@ menu:
         name: book
         className: text-primary
 homepage: true
+docs_root_section: false
 ---
 
 

@@ -68,7 +68,7 @@ imports:
   - path: github.com/hbstack/back-to-top
   #- path: github.com/hbstack/bigger-picture
   - path: github.com/hbstack/code-block-panel
-  - path: github.com/hbstack/docs
+  - path: github.com/hbstack/docs@feat-root-section
   - path: github.com/hbstack/docs/modules/breadcrumb
   #- path: github.com/hbstack/docs/modules/featured-image
   - path: github.com/hbstack/docs/modules/heading-sign
